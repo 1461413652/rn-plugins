@@ -1,0 +1,2 @@
+# rn-plugins
+fix bug
